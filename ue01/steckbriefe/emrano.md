@@ -9,5 +9,5 @@ PG, BSR, AD, JS, PY
 …
 
 ## Das erwarte ich von der Veranstaltung
-
+Spaß und erste Erfahrungen in der Softwareentwicklung sammeln. Zusätzlich wissen wie man gut organisierte Dokumentationen schreibt.
 …
